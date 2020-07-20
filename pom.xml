@@ -19,7 +19,7 @@
 		<net.fckeditor.version>2.6</net.fckeditor.version>
 		<commons-dbcp.version>1.2.2</commons-dbcp.version>
 		<commons-pool.version>1.5.4</commons-pool.version>
-		<mysql.version>5.1.25</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 	</properties>
 	<dependencies>
 
